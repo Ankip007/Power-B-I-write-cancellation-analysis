@@ -12,7 +12,7 @@ transformation.
 
  
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx](https://github.com/Ankip007/Power-BI-Dashboard-Project-Hospitality-Domain-January-2025-/blob/main/dim_date.csv)">Dataset</a>
+- <a href="[https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx](https://github.com/Ankip007/Power-BI-Dashboard-Project-Hospitality-Domain-January-2025-/blob/main/dim_date.csv)](https://github.com/Ankip007/Power-B-I-write-cancellation-analysis/blob/main/Bangalore_Ride_Data_May2025.xlsx)">Dataset</a>
 
 ## Questions (KPIs)  
 ### SQL Questions:  
@@ -38,7 +38,7 @@ transformation.
 9. Driver Ratings Distribution  
 10. Customer vs. Driver Ratings  
 
-## Dashboard Interaction <a href="https://github.com/Ankip007/Power-BI-Dashboard-Project-Hospitality-Domain-January-2025-/blob/main/Dashboard.jpg">View Dashboard</a>
+## Dashboard Interaction <a href="[https://github.com/Ankip007/Power-BI-Dashboard-Project-Hospitality-Domain-January-2025-/blob/main/Dashboard.jpg](https://github.com/Ankip007/Power-B-I-write-cancellation-analysis/blob/main/OLA%20dashboards.jpg)">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
